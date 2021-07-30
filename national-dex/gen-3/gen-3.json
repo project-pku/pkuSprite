@@ -8,12 +8,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/treecko.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/treecko.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/treecko.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/treecko.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/treecko.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/treecko.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -30,12 +46,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/grovyle.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/grovyle.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/grovyle.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/grovyle.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/grovyle.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/grovyle.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -52,12 +84,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/sceptile.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/sceptile.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/sceptile.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/sceptile.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/sceptile.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/sceptile.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -74,12 +122,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/torchic.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/torchic.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/torchic.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/torchic-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/torchic-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/torchic.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/torchic.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/torchic.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/torchic-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/torchic-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -96,12 +180,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/combusken.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/combusken.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/combusken.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/combusken-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/combusken-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/combusken.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/combusken.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/combusken.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/combusken-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/combusken-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -118,12 +238,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/blaziken.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/blaziken.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/blaziken.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/blaziken-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/blaziken-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/blaziken.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/blaziken.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/blaziken.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/blaziken-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/blaziken-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -140,12 +296,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/mudkip.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/mudkip.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/mudkip.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/mudkip.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/mudkip.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -162,12 +334,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/marshtomp.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/marshtomp.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/marshtomp.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/marshtomp.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/marshtomp.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/marshtomp.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -184,12 +372,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/swampert.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/swampert.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/swampert.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/swampert.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/swampert.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/swampert.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -206,12 +410,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/poochyena.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/poochyena.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/poochyena.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/poochyena.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/poochyena.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/poochyena.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -228,12 +448,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/mightyena.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/mightyena.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/mightyena.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/mightyena.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/mightyena.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/mightyena.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -250,12 +486,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/zigzagoon.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/zigzagoon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/zigzagoon.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/zigzagoon.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/zigzagoon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/zigzagoon.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -272,12 +524,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/linoone.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/linoone.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/linoone.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/linoone.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/linoone.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/linoone.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -294,12 +562,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/wurmple.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/wurmple.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/wurmple.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/wurmple.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/wurmple.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/wurmple.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -316,12 +600,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/silcoon.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/silcoon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/silcoon.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/silcoon.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/silcoon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/silcoon.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -338,12 +638,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/beautifly.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/beautifly.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/beautifly.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/beautifly-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/beautifly-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/beautifly.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/beautifly.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/beautifly.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/beautifly-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/beautifly-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -360,12 +696,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cascoon.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/cascoon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/cascoon.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/cascoon.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/cascoon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/cascoon.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -382,12 +734,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/dustox.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/dustox.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/dustox.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/dustox-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/dustox-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/dustox.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/dustox.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/dustox.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/dustox-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/dustox-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -404,12 +792,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/lotad.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/lotad.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/lotad.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/lotad.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/lotad.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/lotad.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -426,12 +830,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/lombre.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/lombre.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/lombre.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/lombre.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/lombre.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/lombre.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -448,12 +868,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/ludicolo.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/ludicolo.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/ludicolo.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/ludicolo-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/ludicolo-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/ludicolo.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/ludicolo.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/ludicolo.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/ludicolo-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/ludicolo-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -470,12 +926,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/seedot.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/seedot.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/seedot.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/seedot.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/seedot.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/seedot.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -492,12 +964,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/nuzleaf.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/nuzleaf.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/nuzleaf.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/nuzleaf-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/nuzleaf-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/nuzleaf.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/nuzleaf.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/nuzleaf.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/nuzleaf-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/nuzleaf-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -514,12 +1022,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/shiftry.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/shiftry.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/shiftry.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/shiftry-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/shiftry-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/shiftry.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/shiftry.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/shiftry.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/shiftry-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/shiftry-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -536,12 +1080,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/taillow.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/taillow.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/taillow.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/taillow.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/taillow.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/taillow.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -558,12 +1118,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/swellow.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/swellow.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/swellow.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/swellow.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/swellow.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/swellow.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -580,12 +1156,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/wingull.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/wingull.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/wingull.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/wingull.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/wingull.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/wingull.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -602,12 +1194,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/pelipper.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/pelipper.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/pelipper.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/pelipper.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/pelipper.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/pelipper.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -624,12 +1232,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/ralts.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/ralts.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/ralts.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/ralts.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/ralts.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/ralts.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -646,12 +1270,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/kirlia.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/kirlia.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/kirlia.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/kirlia.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/kirlia.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/kirlia.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -668,12 +1308,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/gardevoir.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/gardevoir.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/gardevoir.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/gardevoir.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/gardevoir.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/gardevoir.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -690,12 +1346,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/surskit.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/surskit.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/surskit.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/surskit.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/surskit.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/surskit.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -712,12 +1384,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/masquerain.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/masquerain.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/masquerain.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/masquerain.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/masquerain.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/masquerain.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -734,12 +1422,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/shroomish.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/shroomish.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/shroomish.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/shroomish.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/shroomish.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/shroomish.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -756,12 +1460,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/breloom.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/breloom.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/breloom.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/breloom.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/breloom.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/breloom.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -778,12 +1498,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/slakoth.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/slakoth.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/slakoth.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/slakoth.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/slakoth.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/slakoth.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -800,12 +1536,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/vigoroth.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/vigoroth.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/vigoroth.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/vigoroth.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/vigoroth.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/vigoroth.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -822,12 +1574,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/slaking.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/slaking.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/slaking.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/slaking.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/slaking.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/slaking.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -844,12 +1612,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/nincada.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/nincada.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/nincada.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/nincada.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/nincada.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/nincada.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -866,12 +1650,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/ninjask.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/ninjask.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/ninjask.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/ninjask.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/ninjask.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/ninjask.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -888,12 +1688,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/shedinja.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/shedinja.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/shedinja.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/shedinja.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/shedinja.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/shedinja.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -910,12 +1726,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/whismur.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/whismur.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/whismur.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/whismur.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/whismur.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/whismur.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -932,12 +1764,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/loudred.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/loudred.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/loudred.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/loudred.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/loudred.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/loudred.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -954,12 +1802,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/exploud.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/exploud.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/exploud.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/exploud.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/exploud.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/exploud.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -976,12 +1840,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/makuhita.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/makuhita.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/makuhita.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/makuhita.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/makuhita.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/makuhita.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -998,12 +1878,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/hariyama.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/hariyama.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/hariyama.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/hariyama.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/hariyama.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/hariyama.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1020,12 +1916,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/azurill.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/azurill.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/azurill.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/azurill.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/azurill.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/azurill.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1042,12 +1954,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/nosepass.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/nosepass.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/nosepass.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/nosepass.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/nosepass.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/nosepass.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1064,12 +1992,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/skitty.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/skitty.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/skitty.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/skitty.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/skitty.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/skitty.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1086,12 +2030,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/delcatty.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/delcatty.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/delcatty.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/delcatty.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/delcatty.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/delcatty.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1108,12 +2068,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/sableye.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/sableye.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/sableye.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/sableye.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/sableye.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/sableye.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1130,12 +2106,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/mawile.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/mawile.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/mawile.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/mawile.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/mawile.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/mawile.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1152,12 +2144,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/aron.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/aron.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/aron.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/aron.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/aron.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/aron.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1174,12 +2182,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/lairon.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/lairon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/lairon.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/lairon.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/lairon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/lairon.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1196,12 +2220,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/aggron.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/aggron.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/aggron.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/aggron.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/aggron.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/aggron.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1218,12 +2258,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/meditite.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/meditite.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/meditite.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/meditite-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/meditite-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/meditite.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/meditite.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/meditite.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/meditite-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/meditite-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -1240,12 +2316,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/medicham.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/medicham.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/medicham.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/medicham-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/medicham-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/medicham.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/medicham.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/medicham.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/medicham-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/medicham-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -1262,12 +2374,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/electrike.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/electrike.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/electrike.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/electrike.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/electrike.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/electrike.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1284,12 +2412,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/manectric.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/manectric.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/manectric.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/manectric.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/manectric.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/manectric.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1306,12 +2450,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/plusle.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/plusle.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/plusle.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/plusle.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/plusle.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/plusle.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1328,12 +2488,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/minun.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/minun.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/minun.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/minun.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/minun.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/minun.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1350,12 +2526,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/volbeat.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/volbeat.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/volbeat.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/volbeat.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/volbeat.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/volbeat.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1372,12 +2564,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/illumise.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/illumise.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/illumise.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/illumise.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/illumise.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/illumise.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1394,12 +2602,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/roselia.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/roselia.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/roselia.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/roselia-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/roselia-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/roselia.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/roselia.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/roselia.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/roselia-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/roselia-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -1416,12 +2660,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/gulpin.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/gulpin.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/gulpin.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/gulpin-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/gulpin-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/gulpin.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/gulpin.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/gulpin.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/gulpin-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/gulpin-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -1438,12 +2718,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/swalot.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/swalot.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/swalot.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/swalot-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/swalot-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/swalot.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/swalot.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/swalot.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/swalot-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/swalot-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -1460,12 +2776,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/carvanha.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/carvanha.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/carvanha.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/carvanha.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/carvanha.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/carvanha.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1482,12 +2814,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/sharpedo.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/sharpedo.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/sharpedo.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/sharpedo.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/sharpedo.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/sharpedo.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1504,12 +2852,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/wailmer.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/wailmer.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/wailmer.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/wailmer.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/wailmer.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/wailmer.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1526,12 +2890,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/wailord.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/wailord.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/wailord.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/wailord.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/wailord.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/wailord.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1548,12 +2928,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/numel.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/numel.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/numel.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/numel-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/numel-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/numel.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/numel.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/numel.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/numel-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/numel-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -1570,12 +2986,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/camerupt.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/camerupt.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/camerupt.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/camerupt-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/camerupt-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/camerupt.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/camerupt.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/camerupt.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/camerupt-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/camerupt-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -1592,12 +3044,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/torkoal.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/torkoal.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/torkoal.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/torkoal.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/torkoal.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/torkoal.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1614,12 +3082,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/spoink.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/spoink.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/spoink.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/spoink.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/spoink.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/spoink.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1636,12 +3120,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/grumpig.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/grumpig.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/grumpig.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/grumpig.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/grumpig.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/grumpig.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1658,12 +3158,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/spinda.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/spinda.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/spinda.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/spinda.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/spinda.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/spinda.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1680,12 +3196,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/trapinch.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/trapinch.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/trapinch.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/trapinch.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/trapinch.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/trapinch.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1702,12 +3234,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/vibrava.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/vibrava.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/vibrava.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/vibrava.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/vibrava.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/vibrava.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1724,12 +3272,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/flygon.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/flygon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/flygon.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/flygon.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/flygon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/flygon.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1746,12 +3310,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cacnea.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/cacnea.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/cacnea.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/cacnea.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/cacnea.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/cacnea.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1768,12 +3348,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cacturne.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/cacturne.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/cacturne.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/cacturne-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/cacturne-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/cacturne.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/cacturne.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/cacturne.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/cacturne-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/cacturne-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -1790,12 +3406,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/swablu.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/swablu.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/swablu.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/swablu.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/swablu.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/swablu.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1812,12 +3444,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/altaria.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/altaria.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/altaria.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/altaria.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/altaria.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/altaria.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1834,12 +3482,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/zangoose.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/zangoose.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/zangoose.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/zangoose.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/zangoose.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/zangoose.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1856,12 +3520,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/seviper.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/seviper.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/seviper.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/seviper.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/seviper.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/seviper.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1878,12 +3558,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/lunatone.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/lunatone.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/lunatone.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/lunatone.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/lunatone.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/lunatone.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1900,12 +3596,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/solrock.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/solrock.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/solrock.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/solrock.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/solrock.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/solrock.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1922,12 +3634,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/barboach.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/barboach.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/barboach.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/barboach.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/barboach.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/barboach.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1944,12 +3672,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/whiscash.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/whiscash.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/whiscash.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/whiscash.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/whiscash.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/whiscash.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1966,12 +3710,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/corphish.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/corphish.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/corphish.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/corphish.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/corphish.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/corphish.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -1988,12 +3748,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/crawdaunt.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/crawdaunt.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/crawdaunt.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/crawdaunt.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/crawdaunt.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/crawdaunt.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2010,12 +3786,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/baltoy.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/baltoy.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/baltoy.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/baltoy.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/baltoy.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/baltoy.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2032,12 +3824,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/claydol.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/claydol.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/claydol.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/claydol.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/claydol.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/claydol.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2054,12 +3862,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/lileep.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/lileep.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/lileep.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/lileep.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/lileep.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/lileep.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2076,12 +3900,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cradily.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/cradily.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/cradily.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/cradily.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/cradily.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/cradily.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2098,12 +3938,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/anorith.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/anorith.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/anorith.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/anorith.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/anorith.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/anorith.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2120,12 +3976,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/armaldo.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/armaldo.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/armaldo.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/armaldo.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/armaldo.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/armaldo.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2142,12 +4014,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/feebas.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/feebas.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/feebas.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/feebas.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/feebas.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/feebas.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2164,12 +4052,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/milotic.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/milotic.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/milotic.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/milotic-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/milotic-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/milotic.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/milotic.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/milotic.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/milotic-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/milotic-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -2186,12 +4110,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/castform.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/castform.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/castform.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/castform.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/castform.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/castform.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2203,6 +4143,14 @@
             "Regular": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/castform-sunny.png",
+                "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/castform-sunny.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/castform-sunny.gif",
                 "Author": "Game Freak"
               }
             },
@@ -2222,6 +4170,14 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/castform-rainy.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/castform-rainy.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/castform-rainy.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
@@ -2239,6 +4195,14 @@
             "Regular": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/castform-snowy.png",
+                "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/castform-snowy.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/castform-snowy.gif",
                 "Author": "Game Freak"
               }
             },
@@ -2262,12 +4226,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/kecleon.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/kecleon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/kecleon.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/kecleon.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/kecleon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/kecleon.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2284,12 +4264,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/shuppet.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/shuppet.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/shuppet.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/shuppet.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/shuppet.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/shuppet.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2306,12 +4302,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/banette.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/banette.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/banette.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/banette.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/banette.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/banette.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2328,12 +4340,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/duskull.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/duskull.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/duskull.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/duskull.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/duskull.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/duskull.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2350,12 +4378,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/dusclops.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/dusclops.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/dusclops.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/dusclops.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/dusclops.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/dusclops.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2372,12 +4416,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/tropius.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/tropius.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/tropius.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/tropius.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/tropius.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/tropius.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2394,12 +4454,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/chimecho.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/chimecho.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/chimecho.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/chimecho.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/chimecho.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/chimecho.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2416,12 +4492,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/absol.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/absol.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/absol.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/absol.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/absol.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/absol.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2438,12 +4530,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/wynaut.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/wynaut.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/wynaut.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/wynaut.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/wynaut.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/wynaut.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2460,12 +4568,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/snorunt.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/snorunt.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/snorunt.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/snorunt.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/snorunt.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/snorunt.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2482,12 +4606,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/glalie.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/glalie.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/glalie.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/glalie.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/glalie.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/glalie.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2504,12 +4644,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/spheal.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/spheal.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/spheal.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/spheal.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/spheal.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/spheal.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2526,12 +4682,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/sealeo.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/sealeo.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/sealeo.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/sealeo.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/sealeo.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/sealeo.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2548,12 +4720,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/walrein.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/walrein.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/walrein.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/walrein.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/walrein.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/walrein.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2570,12 +4758,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/clamperl.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/clamperl.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/clamperl.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/clamperl.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/clamperl.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/clamperl.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2592,12 +4796,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/huntail.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/huntail.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/huntail.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/huntail.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/huntail.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/huntail.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2614,12 +4834,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/gorebyss.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/gorebyss.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/gorebyss.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/gorebyss.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/gorebyss.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/gorebyss.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2636,12 +4872,48 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/relicanth.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/relicanth.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/relicanth.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/relicanth-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/relicanth-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/relicanth.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/relicanth.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/relicanth.gif",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Front": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/relicanth-f.gif",
+                  "Author": "Game Freak"
+                },
+                "Back": {
+                  "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/relicanth-f.gif",
+                  "Author": "Game Freak"
+                }
               }
             }
           }
@@ -2658,12 +4930,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/luvdisc.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/luvdisc.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/luvdisc.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/luvdisc.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/luvdisc.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/luvdisc.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2680,12 +4968,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/bagon.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/bagon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/bagon.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/bagon.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/bagon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/bagon.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2702,12 +5006,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/shelgon.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/shelgon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/shelgon.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/shelgon.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/shelgon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/shelgon.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2724,12 +5044,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/salamence.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/salamence.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/salamence.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/salamence.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/salamence.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/salamence.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2746,12 +5082,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/beldum.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/beldum.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/beldum.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/beldum.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/beldum.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/beldum.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2768,12 +5120,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/metang.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/metang.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/metang.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/metang.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/metang.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/metang.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2790,12 +5158,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/metagross.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/metagross.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/metagross.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/metagross.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/metagross.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2812,12 +5196,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/regirock.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/regirock.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/regirock.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/regirock.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/regirock.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/regirock.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2834,12 +5234,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/regice.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/regice.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/regice.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/regice.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/regice.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/regice.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2856,12 +5272,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/registeel.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/registeel.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/registeel.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/registeel.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/registeel.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/registeel.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2878,12 +5310,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/latias.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/latias.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/latias.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/latias.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/latias.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/latias.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2900,12 +5348,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/latios.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/latios.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/latios.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/latios.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/latios.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/latios.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2922,12 +5386,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/kyogre.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/kyogre.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/kyogre.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/kyogre.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/kyogre.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/kyogre.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -2962,12 +5442,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/groudon.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/groudon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/groudon.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/groudon.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/groudon.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/groudon.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -3002,12 +5498,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/rayquaza.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/rayquaza.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/rayquaza.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/rayquaza.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/rayquaza.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -3024,12 +5536,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/jirachi.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/jirachi.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/jirachi.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/jirachi.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/jirachi.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/jirachi.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -3046,12 +5574,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/deoxys.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/deoxys-normal.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/deoxys-normal.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/deoxys.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/deoxys-normal.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/deoxys-normal.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -3064,12 +5608,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/deoxys-attack.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/deoxys-attack.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/deoxys-attack.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/deoxys-attack.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/deoxys-attack.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/deoxys-attack.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -3082,12 +5642,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/deoxys-defense.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/deoxys-defense.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/deoxys-defense.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/deoxys-defense.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/deoxys-defense.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/deoxys-defense.gif",
+                "Author": "Game Freak"
               }
             }
           }
@@ -3100,12 +5676,28 @@
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/deoxys-speed.png",
                 "Author": "Game Freak"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/normal/deoxys-speed.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-normal/deoxys-speed.gif",
+                "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
                 "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/deoxys-speed.png",
                 "Author": "https://twitter.com/Dada78641"
+              },
+              "Front": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/shiny/deoxys-speed.gif",
+                "Author": "Game Freak"
+              },
+              "Back": {
+                "URL": "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/deoxys-speed.gif",
+                "Author": "Game Freak"
               }
             }
           }
