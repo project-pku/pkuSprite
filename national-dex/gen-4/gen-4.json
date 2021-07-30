@@ -1,0 +1,2938 @@
+{
+  "Turtwig": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/turtwig.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/turtwig.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Grotle": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/grotle.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/grotle.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Torterra": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/torterra.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/torterra.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Chimchar": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/chimchar.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/chimchar.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Monferno": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/monferno.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/monferno.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Infernape": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/infernape.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/infernape.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Piplup": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/piplup.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/piplup.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Prinplup": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/prinplup.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/prinplup.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Empoleon": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/empoleon.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/empoleon.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Starly": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/starly.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/starly.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Staravia": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/staravia.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/staravia.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Staraptor": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/staraptor.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/staraptor.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Bidoof": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/bidoof.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/bidoof.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Bibarel": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/bibarel.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/bibarel.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Kricketot": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/kricketot.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/kricketot.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Kricketune": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/kricketune.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/kricketune.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Shinx": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/shinx.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/shinx.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Luxio": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/luxio.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/luxio.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Luxray": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/luxray.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/luxray.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Budew": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/budew.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/budew.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Roserade": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/roserade.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/roserade.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Cranidos": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cranidos.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/cranidos.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Rampardos": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/rampardos.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/rampardos.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Shieldon": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/shieldon.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/shieldon.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Bastiodon": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/bastiodon.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/bastiodon.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Burmy": {
+    "Forms": {
+      "Plant Cloak": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/burmy.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/burmy.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Sandy Cloak": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/burmy-sandy.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/burmy-sandy.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Trash Cloak": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/burmy-trash.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/burmy-trash.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Wormadam": {
+    "Forms": {
+      "Plant Cloak": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/wormadam.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/wormadam.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Sandy Cloak": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/wormadam-sandy.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/wormadam-sandy.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Trash Cloak": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/wormadam-trash.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/wormadam-trash.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Mothim": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/mothim.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/mothim.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Combee": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/combee.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/combee.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Vespiquen": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/vespiquen.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/vespiquen.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Pachirisu": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/pachirisu.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/pachirisu.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Buizel": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/buizel.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/buizel.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Floatzel": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/floatzel.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/floatzel.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Cherubi": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cherubi.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/cherubi.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Cherrim": {
+    "Forms": {
+      "Overcast": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cherrim.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/cherrim.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Sunshine": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cherrim-sunshine.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/cherrim-sunshine.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Shellos": {
+    "Forms": {
+      "West": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/shellos.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/shellos.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "East": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/shellos-east.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/shellos-east.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Gastrodon": {
+    "Forms": {
+      "West": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/gastrodon.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/gastrodon.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "East": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/gastrodon-east.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/gastrodon-east.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Ambipom": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/ambipom.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/ambipom.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Drifloon": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/drifloon.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/drifloon.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Drifblim": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/drifblim.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/drifblim.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Buneary": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/buneary.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/buneary.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Lopunny": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/lopunny.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/lopunny.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Mismagius": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/mismagius.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/mismagius.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Honchkrow": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/honchkrow.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/honchkrow.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Glameow": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/glameow.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/glameow.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Purugly": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/purugly.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/purugly.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Chingling": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/chingling.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/chingling.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Stunky": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/stunky.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/stunky.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Skuntank": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/skuntank.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/skuntank.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Bronzor": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/bronzor.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/bronzor.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Bronzong": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/bronzong.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/bronzong.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Bonsly": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/bonsly.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/bonsly.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Mime Jr.": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/mime-jr.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/mime-jr.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Happiny": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/happiny.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/happiny.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Chatot": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/chatot.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/chatot.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Spiritomb": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/spiritomb.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/spiritomb.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Gible": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/gible.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/gible.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Gabite": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/gabite.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/gabite.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Garchomp": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/garchomp.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/garchomp.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Munchlax": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/munchlax.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/munchlax.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Riolu": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/riolu.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/riolu.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Lucario": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/lucario.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/lucario.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Hippopotas": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/hippopotas.png",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Box": {
+                  "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/hippopotas.png",
+                  "Author": "Game Freak"
+                }
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/hippopotas.png",
+                "Author": "https://twitter.com/Dada78641"
+              },
+              "Female": {
+                "Box": {
+                  "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/hippopotas.png",
+                  "Author": "https://twitter.com/Dada78641"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Hippowdon": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/hippowdon.png",
+                "Author": "Game Freak"
+              },
+              "Female": {
+                "Box": {
+                  "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/hippowdon.png",
+                  "Author": "Game Freak"
+                }
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/hippowdon.png",
+                "Author": "https://twitter.com/Dada78641"
+              },
+              "Female": {
+                "Box": {
+                  "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/hippowdon.png",
+                  "Author": "https://twitter.com/Dada78641"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Skorupi": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/skorupi.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/skorupi.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Drapion": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/drapion.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/drapion.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Croagunk": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/croagunk.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/croagunk.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Toxicroak": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/toxicroak.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/toxicroak.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Carnivine": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/carnivine.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/carnivine.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Finneon": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/finneon.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/finneon.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Lumineon": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/lumineon.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/lumineon.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Mantyke": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/mantyke.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/mantyke.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Snover": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/snover.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/snover.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Abomasnow": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/abomasnow.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/abomasnow.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Weavile": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/weavile.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/weavile.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Magnezone": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/magnezone.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/magnezone.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Lickilicky": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/lickilicky.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/lickilicky.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Rhyperior": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/rhyperior.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/rhyperior.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Tangrowth": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/tangrowth.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/tangrowth.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Electivire": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/electivire.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/electivire.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Magmortar": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/magmortar.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/magmortar.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Togekiss": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/togekiss.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/togekiss.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Yanmega": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/yanmega.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/yanmega.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Leafeon": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/leafeon.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/leafeon.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Glaceon": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/glaceon.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/glaceon.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Gliscor": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/gliscor.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/gliscor.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Mamoswine": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/mamoswine.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/mamoswine.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Porygon-Z": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/porygon-z.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/porygon-z.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Gallade": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/gallade.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/gallade.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Probopass": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/probopass.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/probopass.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Dusknoir": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/dusknoir.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/dusknoir.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Froslass": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/froslass.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/froslass.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Rotom": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/rotom.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/rotom.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Heat": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/rotom-heat.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/rotom-heat.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Wash": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/rotom-wash.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/rotom-wash.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Frost": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/rotom-frost.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/rotom-frost.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Fan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/rotom-fan.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/rotom-fan.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Mow": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/rotom-mow.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/rotom-mow.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Uxie": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/uxie.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/uxie.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Mesprit": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/mesprit.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/mesprit.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Azelf": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/azelf.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/azelf.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Dialga": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/dialga.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/dialga.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Palkia": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/palkia.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/palkia.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Heatran": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/heatran.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/heatran.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Regigigas": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/regigigas.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/regigigas.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Giratina": {
+    "Forms": {
+      "Altered": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/giratina.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/giratina.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Origin": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/giratina-origin.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/giratina-origin.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Cresselia": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cresselia.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/cresselia.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Phione": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/phione.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/phione.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Manaphy": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/manaphy.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/manaphy.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Darkrai": {
+    "Forms": {
+      "": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/darkrai.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/darkrai.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Shaymin": {
+    "Forms": {
+      "Land": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/shaymin.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/shaymin.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Sky": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/shaymin-sky.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/shaymin-sky.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Arceus": {
+    "Forms": {
+      "Normal": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Fire": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-fire.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-fire.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Water": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-water.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-water.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Electric": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-electric.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-electric.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Grass": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-grass.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-grass.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Ice": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-ice.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-ice.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Fighting": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-fighting.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-fighting.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Poison": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-poison.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-poison.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Ground": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-ground.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-ground.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Flying": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-flying.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-flying.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Psychic": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-psychic.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-psychic.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Bug": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-bug.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-bug.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Rock": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-rock.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-rock.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Ghost": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-ghost.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-ghost.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Dragon": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-dragon.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-dragon.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Dark": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-dark.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-dark.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Steel": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-steel.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-steel.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      },
+      "Fairy": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arceus-fairy.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arceus-fairy.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

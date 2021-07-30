@@ -1,0 +1,400 @@
+{
+  "Rattata": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/rattata-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/rattata-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Raticate": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/raticate-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/raticate-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+      //Alolan-Totem is castable to Alolan, so same sprites are used.
+    }
+  },
+  "Raichu": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/raichu-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/raichu-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Sandshrew": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/sandshrew-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/sandshrew-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Sandslash": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/sandslash-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/sandslash-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Vulpix": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/vulpix-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/vulpix-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Ninetales": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/ninetales-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/ninetales-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Diglett": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/diglett-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/diglett-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Dugtrio": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/dugtrio-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/dugtrio-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Meowth": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/meowth-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/meowth-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Persian": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/persian-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/persian-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Geodude": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/geodude-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/geodude-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Graveler": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/graveler-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/graveler-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Golem": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/golem-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/golem-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Grimer": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/grimer-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/grimer-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Muk": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/muk-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/muk-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Exeggutor": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/exeggutor-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/exeggutor-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Marowak": {
+    "Forms": {
+      "Alolan": {
+        "Sprites": {
+          "Default": {
+            "Regular": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/marowak-alola.png",
+                "Author": "Game Freak"
+              }
+            },
+            "Shiny": {
+              "Box": {
+                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/marowak-alola.png",
+                "Author": "https://twitter.com/Dada78641"
+              }
+            }
+          }
+        }
+      }
+      //Alolan-Totem is castable to Alolan, so same sprites are used.
+    }
+  }
+}
