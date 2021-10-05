@@ -331,7 +331,7 @@
   },
   "Darmanitan": {
     "Forms": {
-      "Galarian-Standard Mode": {
+      "Galarian|Standard Mode": {
         "Sprites": {
           "Default": {
             "Regular": {
@@ -349,7 +349,7 @@
           }
         }
       },
-      "Galarian-Zen Mode": {
+      "Galarian|Zen Mode": {
         "Sprites": {
           "Default": {
             "Regular": {

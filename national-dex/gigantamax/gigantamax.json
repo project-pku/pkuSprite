@@ -683,7 +683,7 @@
   },
   "Urshifu": {
     "Forms": {
-      "Gigantamax-Single Strike Style": {
+      "Gigantamax|Single Strike Style": {
         "Sprites": {
           "Default": {
             "Regular": {
@@ -701,7 +701,7 @@
           }
         }
       },
-      "Gigantamax-Rapid Strike Style": {
+      "Gigantamax|Rapid Strike Style": {
         "Sprites": {
           "Default": {
             "Regular": {

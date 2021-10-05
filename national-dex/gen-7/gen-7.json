@@ -1685,7 +1685,7 @@
           }
         }
       },
-      "Meteor-Red": {
+      "Meteor|Red": {
         "Sprites": {
           "Default": {
             "Regular": {
@@ -1703,7 +1703,7 @@
           }
         }
       },
-      "Meteor-Orange": {
+      "Meteor|Orange": {
         "Sprites": {
           "Default": {
             "Regular": {
@@ -1721,7 +1721,7 @@
           }
         }
       },
-      "Meteor-Yellow": {
+      "Meteor|Yellow": {
         "Sprites": {
           "Default": {
             "Regular": {
@@ -1739,7 +1739,7 @@
           }
         }
       },
-      "Green-Meteor": {
+      "Green|Meteor": {
         "Sprites": {
           "Default": {
             "Regular": {
@@ -1757,7 +1757,7 @@
           }
         }
       },
-      "Blue-Meteor": {
+      "Blue|Meteor": {
         "Sprites": {
           "Default": {
             "Regular": {
@@ -1775,7 +1775,7 @@
           }
         }
       },
-      "Indigo-Meteor": {
+      "Indigo|Meteor": {
         "Sprites": {
           "Default": {
             "Regular": {
@@ -1793,7 +1793,7 @@
           }
         }
       },
-      "Meteor-Violet": {
+      "Meteor|Violet": {
         "Sprites": {
           "Default": {
             "Regular": {
