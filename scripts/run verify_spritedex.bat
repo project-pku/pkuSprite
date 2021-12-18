@@ -1,0 +1,1 @@
+python verify_spritedex.py

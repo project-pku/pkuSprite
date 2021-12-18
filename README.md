@@ -2,7 +2,9 @@
   <img src="logo.svg" height="100px"/>
 </p>
 
-This repository houses a number of Pokémon sprite collections, each of which is indexed by a **sprite index** JSON file. The [sprite-indices.json](sprite-indices.json) is a list of all the sprite indices in the repo. Internally, pkuManager combines them all into a single **master sprite index** which is then referenced for displaying sprites.
+This repository is an offshoot of the [pkuData](https://github.com/project-pku/pkuData) repo specifically for housing Pokémon sprites. Collections of these sprites are indexed by **spriteDexes**, which are just JSON files in the format of a speciesDex *à la* pkuData. The [sprite-indices.json](sprite-indices.json) file is a list of all the spriteDexes in the repo.
+
+Before each commit, the *compile_spritedex* script is run, compiling all the spriteDexes into a single [**masterSpriteDex**](masterSpriteDex.json) which is then used by applications, like [pkuManager](https://github.com/project-pku/pkuManager), for displaying sprites.
 
 ## Structure
 Each sprite index contains a list of species. Each species (e.g. Pikachu) contains a list of `"Forms"` (e.g. Cosplay), and each form potentially contains a list of `"Appearances"` (e.g. Libre outfit). Note that all species have a default form, whether named or not. For example, Giratina's default form is `"Altered"`, while Pikachu's is simply the empty string `""`.
