@@ -1,22 +1,22 @@
 {
   // Utility Sprites
-  "Util": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/util.json",
+  "Util": "util/util.json",
 
   // National Dex & Unique Forms
-  "Gen 1": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/gen-1/gen-1.json",
-  "Gen 2": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/gen-2/gen-2.json",
-  "Gen 3": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/gen-3/gen-3.json",
-  "Gen 4": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/gen-4/gen-4.json",
-  "Gen 5": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/gen-5/gen-5.json",
-  "Gen 6": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/gen-6/gen-6.json",
-  "Gen 7": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/gen-7/gen-7.json",
-  "Gen 8": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/gen-8/gen-8.json",
+  "Gen 1": "national-dex/gen-1/gen-1.json",
+  "Gen 2": "national-dex/gen-2/gen-2.json",
+  "Gen 3": "national-dex/gen-3/gen-3.json",
+  "Gen 4": "national-dex/gen-4/gen-4.json",
+  "Gen 5": "national-dex/gen-5/gen-5.json",
+  "Gen 6": "national-dex/gen-6/gen-6.json",
+  "Gen 7": "national-dex/gen-7/gen-7.json",
+  "Gen 8": "national-dex/gen-8/gen-8.json",
 
   // Regional Forms
-  "Alolan": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/alolan/alolan.json",
-  "Galarian": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/galarian/galarian.json",
+  "Alolan": "national-dex/alolan/alolan.json",
+  "Galarian": "national-dex/galarian/galarian.json",
 
   // In Battle Forms
-  "Mega": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/mega/mega.json",
-  "Gigantamax": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/national-dex/gigantamax/gigantamax.json"
+  "Mega": "national-dex/mega/mega.json",
+  "Gigantamax": "national-dex/gigantamax/gigantamax.json"
 }
