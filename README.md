@@ -9,7 +9,7 @@ Before each commit, the *compile_spritedex* script is run, compiling all the spr
 ## Structure
 Each sprite index contains a list of species. Each species (e.g. Pikachu) contains a list of `"Forms"` (e.g. Cosplay), and each form potentially contains a list of `"Appearances"` (e.g. Libre outfit). Note that all species have a default form, whether named or not. For example, Giratina's default form is `"Altered"`, while Pikachu's is simply the empty string `""`.
 
-Each form entry and appearance entry has a `"Sprites"` tag. This tag contains a `"Default"`, `"Egg"`, and `"Shadow"` **sprite block**. Each sprite block contains a `"Regular"` and `"Shiny"` tag, each of which contains a `"Box"`, `"Front"`, and `"Back"` sprite, as well as `"Female"` versions of those if the species displays gender differences. Each of those three **sprite types** includes a direct `"URL"` to the sprite, and an `"Author"` tag which credits its creator.
+Each form entry and appearance entry has a `"Sprites"` tag. This tag contains a `"Default"`, `"Egg"`, and `"Shadow"` **sprite block**. Each sprite block contains a `"Regular"` and `"Shiny"` tag, each of which contains a `"Box"`, `"Front"`, and `"Back"` sprite. Each of those three **sprite types** includes a direct `"URL"` to the sprite, and an `"Author"` tag which credits its creator.
 
 Here's an example sprite index:
 
@@ -27,14 +27,6 @@ Here's an example sprite index:
               },
               "Front": //..same as "Box"
               "Back": //..same as "Box"
-              "Female": {
-                "Box": {
-                  "URL": "https://url.to/regular/female/box.png",
-                  "Author": "https://platform.com/Author2"
-                },
-                "Front": //..same as "Box"
-                "Back": //..same as "Box"
-              },
             },
             "Shiny": //...Same as "Regular"
           },
@@ -53,6 +45,21 @@ Here's an example sprite index:
   },
   "Example_Species_2": //...Same as "Example_Species_1"
 }
+```
+
+## Gender Differences
+Some Pokémon species exhibit sexual dimorphism or, in Pokémon lingo, **gender differences**. As such, pkuSprite supports having different urls and authors depending on the gender of the Pokémon. This is done by replacing the value in question with an array of two values, the first being the male value and the second being the female one. For example:
+```jsonc
+...
+"Box": {
+  "URL": ["https://url.to/maleSpriteF.png", "https://url.to/femaleSpriteF.png"],
+  "Author": "https://platform.com/AuthorOfBoth"
+},
+"Front": {
+  "URL": ["https://url.to/maleSprite.png", "https://url.to/femaleSprite.png"],
+  "Author": ["https://platform.com/AuthorOfMale", "https://platform.com/AuthorOfFemale"]
+}
+...
 ```
 
 ## Author Tag

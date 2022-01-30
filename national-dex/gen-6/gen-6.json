@@ -762,26 +762,14 @@
           "Default": {
             "Regular": {
               "Box": {
-                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/pyroar.png",
+                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/pyroar.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/pyroar.png"],
                 "Author": "Game Freak"
-              },
-              "Female": {
-                "Box": {
-                  "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/pyroar.png",
-                  "Author": "Game Freak"
-                }
               }
             },
             "Shiny": {
               "Box": {
-                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/pyroar.png",
+                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/pyroar.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/pyroar.png"],
                 "Author": "https://twitter.com/Dada78641"
-              },
-              "Female": {
-                "Box": {
-                  "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/pyroar.png",
-                  "Author": "https://twitter.com/Dada78641"
-                }
               }
             }
           }
@@ -1392,26 +1380,14 @@
           "Default": {
             "Regular": {
               "Box": {
-                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/meowstic.png",
+                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/meowstic.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/meowstic.png"],
                 "Author": "Game Freak"
-              },
-              "Female": {
-                "Box": {
-                  "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/meowstic.png",
-                  "Author": "Game Freak"
-                }
               }
             },
             "Shiny": {
               "Box": {
-                "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/meowstic.png",
+                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/meowstic.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/meowstic.png"],
                 "Author": "https://twitter.com/Dada78641"
-              },
-              "Female": {
-                "Box": {
-                  "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/meowstic.png",
-                  "Author": "https://twitter.com/Dada78641"
-                }
               }
             }
           }
