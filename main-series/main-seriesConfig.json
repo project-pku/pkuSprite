@@ -1,0 +1,21 @@
+{
+  "Species": [
+    // National Dex & Unique Forms
+    "gen-1.json",
+    "gen-2.json",
+    "gen-3.json",
+    "gen-4.json",
+    "gen-5.json",
+    "gen-6.json",
+    "gen-7.json",
+    "gen-8.json",
+    
+    // Regional Forms
+    "alolan.json",
+    "galarian.json",
+    
+    // In Battle Gimmick Forms
+    "mega.json",
+    "gigantamax.json"
+  ]
+}

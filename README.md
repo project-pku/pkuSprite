@@ -2,16 +2,17 @@
   <img src="logo.svg" height="100px"/>
 </p>
 
-This repository is an offshoot of the [pkuData](https://github.com/project-pku/pkuData) repo specifically for housing Pokémon sprites. Collections of these sprites are indexed by **spriteDexes**, which are just JSON files in the format of a speciesDex *à la* pkuData. The [sprite-indices.json](sprite-indices.json) file is a list of all the spriteDexes in the repo.
+This repository is specifically for housing and providing structured access to Pokémon and Pokémon related sprites and graphics in the form of URLs. These URLs are compiled into *Dexes*, which are just json files with a predefined structure, located in the repo's [build branch](https://github.com/project-pku/pkuSprite/tree/build). These dexes are primarily for use in [pkuManager](https://github.com/project-pku/pkuManager), but any application is free to use them.
 
-Before each commit, the *compile_spritedex* script is run, compiling all the spriteDexes into a single [**masterSpriteDex**](masterSpriteDex.json) which is then used by applications, like [pkuManager](https://github.com/project-pku/pkuManager), for displaying sprites.
+## Auto-Building
+Like it's sister repo [pkuData](https://github.com/project-pku/pkuData), whenever a change is pushed to this repo that affects any of the dexes specified in the [`config.json`](config.json) file (e.g. a sprite is added, updated, removed), all the dexes are rebuilt and the new build is committed to the build branch.
 
-## Structure
-Each sprite index contains a list of species. Each species (e.g. Pikachu) contains a list of `"Forms"` (e.g. Cosplay), and each form potentially contains a list of `"Appearances"` (e.g. Libre outfit). Note that all species have a default form, whether named or not. For example, Giratina's default form is `"Altered"`, while Pikachu's is simply the empty string `""`.
+## Structure of SpeciesDex
+Each **SpeciesDex** is a type of dex for storing info about Pokémon species. In the case of this repo, that info is just URLs to sprites of this species. Each top level entry in a SpeciesDex is a species (e.g. Pikachu) which contains an entry for `"Forms"` (e.g. Cosplay), and each form potentially contains an entry for `"Appearances"` (e.g. Libre outfit). Note that all species have a default form, whether named or not. For example, Giratina's default form is `"Altered"`, while Pikachu's is simply the empty string `""`.
 
 Each form entry and appearance entry has a `"Sprites"` tag. This tag contains a `"Default"`, `"Egg"`, and `"Shadow"` **sprite block**. Each sprite block contains a `"Regular"` and `"Shiny"` tag, each of which contains a `"Box"`, `"Front"`, and `"Back"` sprite. Each of those three **sprite types** includes a direct `"URL"` to the sprite, and an `"Author"` tag which credits its creator.
 
-Here's an example sprite index:
+Here's an example dex:
 
 ```jsonc
 {
