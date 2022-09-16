@@ -1,0 +1,7 @@
+{
+  "Name": "pkuSprite",
+  "Version": "0.1",
+  "Dexes": {
+    "Species": "SpeciesDex.json"
+  }
+}
