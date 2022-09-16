@@ -2826,13 +2826,13 @@
           "Default": {
             "Regular": {
               "Box": {
-                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/indeedee.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/indeedee.png"],
+                "URL": ["$Male-Female", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/indeedee.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/indeedee.png"],
                 "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
-                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/indeedee.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/indeedee.png"],
+                "URL": ["$Male-Female", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/indeedee.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/indeedee.png"],
                 "Author": "https://twitter.com/Dada78641"
               }
             }

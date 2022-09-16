@@ -49,18 +49,16 @@ Here's an example dex:
 ```
 
 ## Gender Differences
-Some Pokémon species exhibit sexual dimorphism or, in Pokémon lingo, **gender differences**. As such, pkuSprite supports having different urls and authors depending on the gender of the Pokémon. This is done by replacing the value in question with an array of two values, the first being the male value and the second being the female one. For example:
+Some Pokémon species exhibit sexual dimorphism or, in Pokémon lingo, **gender differences**. As such, pkuSprite supports having different URLs and authors depending on the gender of the Pokémon. The syntax for this is given below:
 ```jsonc
-...
 "Box": {
-  "URL": ["https://url.to/maleSpriteF.png", "https://url.to/femaleSpriteF.png"],
+  "URL": ["$Male-Female", "https://url.to/maleSpriteF.png", "https://url.to/femaleSpriteF.png"],
   "Author": "https://platform.com/AuthorOfBoth"
 },
 "Front": {
-  "URL": ["https://url.to/maleSprite.png", "https://url.to/femaleSprite.png"],
-  "Author": ["https://platform.com/AuthorOfMale", "https://platform.com/AuthorOfFemale"]
+  "URL": ["$Male-Female", "https://url.to/maleSprite.png", "https://url.to/femaleSprite.png"],
+  "Author": ["$Male-Female", "https://platform.com/AuthorOfMale", "https://platform.com/AuthorOfFemale"]
 }
-...
 ```
 
 ## Author Tag

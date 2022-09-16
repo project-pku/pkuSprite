@@ -1032,29 +1032,29 @@
           "Default": {
             "Regular": {
               "Box": {
-                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/unfezant.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/unfezant.png"],
+                "URL": ["$Male-Female", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/unfezant.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/unfezant.png"],
                 "Author": "Game Freak"
               },
               "Front": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/normal/unfezant.gif", "https://img.pokemondb.net/sprites/black-white/anim/normal/unfezant-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/normal/unfezant.gif", "https://img.pokemondb.net/sprites/black-white/anim/normal/unfezant-f.gif"],
                 "Author": "Game Freak"
               },
               "Back": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/back-normal/unfezant.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-normal/unfezant-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/back-normal/unfezant.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-normal/unfezant-f.gif"],
                 "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
-                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/unfezant.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/unfezant.png"],
+                "URL": ["$Male-Female", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/unfezant.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/unfezant.png"],
                 "Author": "https://twitter.com/Dada78641"
               },
               "Front": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/shiny/unfezant.gif", "https://img.pokemondb.net/sprites/black-white/anim/shiny/unfezant-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/shiny/unfezant.gif", "https://img.pokemondb.net/sprites/black-white/anim/shiny/unfezant-f.gif"],
                 "Author": "Game Freak"
               },
               "Back": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/back-shiny/unfezant.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/unfezant-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/unfezant.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/unfezant-f.gif"],
                 "Author": "Game Freak"
               }
             }
@@ -4002,29 +4002,29 @@
           "Default": {
             "Regular": {
               "Box": {
-                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/frillish.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/frillish.png"],
+                "URL": ["$Male-Female", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/frillish.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/frillish.png"],
                 "Author": "Game Freak"
               },
               "Front": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/normal/frillish.gif", "https://img.pokemondb.net/sprites/black-white/anim/normal/frillish-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/normal/frillish.gif", "https://img.pokemondb.net/sprites/black-white/anim/normal/frillish-f.gif"],
                 "Author": "Game Freak"
               },
               "Back": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/back-normal/frillish.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-normal/frillish-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/back-normal/frillish.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-normal/frillish-f.gif"],
                 "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
-                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/frillish.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/frillish.png"],
+                "URL": ["$Male-Female", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/frillish.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/frillish.png"],
                 "Author": "https://twitter.com/Dada78641"
               },
               "Front": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/shiny/frillish.gif", "https://img.pokemondb.net/sprites/black-white/anim/shiny/frillish-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/shiny/frillish.gif", "https://img.pokemondb.net/sprites/black-white/anim/shiny/frillish-f.gif"],
                 "Author": "Game Freak"
               },
               "Back": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/back-shiny/frillish.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/frillish-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/frillish.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/frillish-f.gif"],
                 "Author": "Game Freak"
               }
             }
@@ -4040,29 +4040,29 @@
           "Default": {
             "Regular": {
               "Box": {
-                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/jellicent.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/jellicent.png"],
+                "URL": ["$Male-Female", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/jellicent.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/jellicent.png"],
                 "Author": "Game Freak"
               },
               "Front": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/normal/jellicent.gif", "https://img.pokemondb.net/sprites/black-white/anim/normal/jellicent-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/normal/jellicent.gif", "https://img.pokemondb.net/sprites/black-white/anim/normal/jellicent-f.gif"],
                 "Author": "Game Freak"
               },
               "Back": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/back-normal/jellicent.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-normal/jellicent-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/back-normal/jellicent.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-normal/jellicent-f.gif"],
                 "Author": "Game Freak"
               }
             },
             "Shiny": {
               "Box": {
-                "URL": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/jellicent.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/jellicent.png"],
+                "URL": ["$Male-Female", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/jellicent.png", "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/jellicent.png"],
                 "Author": "https://twitter.com/Dada78641"
               },
               "Front": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/shiny/jellicent.gif", "https://img.pokemondb.net/sprites/black-white/anim/shiny/jellicent-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/shiny/jellicent.gif", "https://img.pokemondb.net/sprites/black-white/anim/shiny/jellicent-f.gif"],
                 "Author": "Game Freak"
               },
               "Back": {
-                "URL": ["https://img.pokemondb.net/sprites/black-white/anim/back-shiny/jellicent.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/jellicent-f.gif"],
+                "URL": ["$Male-Female", "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/jellicent.gif", "https://img.pokemondb.net/sprites/black-white/anim/back-shiny/jellicent-f.gif"],
                 "Author": "Game Freak"
               }
             }
