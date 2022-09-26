@@ -1,6 +1,6 @@
 {
   "Name": "pkuSprite", //name of the dex having repo
-  "Version": "1.0", //semantic versioning
+  "Version": "2.0", //semantic versioning
   "Sub-Configs": { //in order of priority (i.e. reverse merge order)
     "Util": "util/utilConfig.json",
     "Main Series": "main-series/main-seriesConfig.json"

@@ -3,64 +3,34 @@
     "Forms": {
       "": {
         "Sprites": {
-          "Default": {
-            "Regular": {
-              "Box": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/box/regular/unknown.png",
-                "Author": "Game Freak"
-              },
-              "Front": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/front/regular/unknown.png",
-                "Author": "Game Freak"
-              },
-              "Back": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/back/regular/unknown.png",
-                "Author": "Game Freak"
-              }
+          "Box$": {
+            "Egg$": {
+              "Shiny": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/box/shiny/egg.png", "https://github.com/prof64"], //egg, shiny
+              "": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/box/regular/egg.png", "https://github.com/prof64"] //egg, regular
             },
-            "Shiny": {
-              "Box": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/box/shiny/unknown.png",
-                "Author": "https://github.com/prof64"
-              },
-              "Front": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/front/shiny/unknown.png",
-                "Author": "https://github.com/prof64"
-              },
-              "Back": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/back/shiny/unknown.png",
-                "Author": "https://github.com/prof64"
-              }
+            "$": {
+              "Shiny": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/box/shiny/unknown.png", "https://github.com/prof64"], //normal, shiny
+              "": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/box/regular/unknown.png", "Game Freak"] //normal, regular
             }
           },
-          "Egg": {
-            "Regular": {
-              "Box": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/box/regular/egg.png",
-                "Author": "https://github.com/prof64"
-              },
-              "Front": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/front/regular/egg.gif",
-                "Author": "Game Freak"
-              },
-              "Back": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/back/regular/egg.gif",
-                "Author": "Game Freak"
-              }
+          "Front$": {
+            "Egg$": {
+              "Shiny": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/front/shiny/egg.gif", "https://github.com/prof64"], //egg, shiny
+              "": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/front/regular/egg.gif", "Game Freak"] //egg, regular
             },
-            "Shiny": {
-              "Box": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/box/shiny/egg.png",
-                "Author": "https://github.com/prof64"
-              },
-              "Front": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/front/shiny/egg.gif",
-                "Author": "https://github.com/prof64"
-              },
-              "Back": {
-                "URL": "https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/back/shiny/egg.gif",
-                "Author": "https://github.com/prof64"
-              }
+            "$": {
+              "Shiny": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/front/shiny/unknown.png", "https://github.com/prof64"], //normal, shiny
+              "": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/front/regular/unknown.png", "Game Freak"] //normal, regular
+            }
+          },
+          "Back$": {
+            "Egg$": {
+              "Shiny": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/back/shiny/egg.gif", "https://github.com/prof64"], //egg, shiny
+              "": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/back/regular/egg.gif", "https://github.com/prof64"] //egg, regular
+            },
+            "$": {
+              "Shiny": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/back/shiny/unknown.png", "https://github.com/prof64"], //normal, shiny
+              "": ["https://raw.githubusercontent.com/project-pku/pkuSprite/master/util/back/regular/unknown.png", "Game Freak"] //normal, regular
             }
           }
         }
