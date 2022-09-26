@@ -2457,22 +2457,22 @@
               }
             }
           }
-        }
-      },
-      "Appearance":{
-        "Original Color": {
-          "Sprites": {
-            "Default": {
-              "Regular": {
-                "Box": {
-                  "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/magearna-original.png",
-                  "Author": "Game Freak"
-                }
-              },
-              "Shiny": {
-                "Box": {
-                  "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/magearna-original.png",
-                  "Author": "https://twitter.com/Dada78641"
+        },
+        "Appearance":{
+          "Original Color": {
+            "Sprites": {
+              "Default": {
+                "Regular": {
+                  "Box": {
+                    "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/magearna-original.png",
+                    "Author": "Game Freak"
+                  }
+                },
+                "Shiny": {
+                  "Box": {
+                    "URL": "https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/magearna-original.png",
+                    "Author": "https://twitter.com/Dada78641"
+                  }
                 }
               }
             }
