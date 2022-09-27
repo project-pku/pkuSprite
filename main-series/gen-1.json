@@ -729,7 +729,7 @@
       },
       "Partner": {
         "Sprites": {
-          "$override": "Pikachu.Forms.''.Sprites", //Same as base, except custom box sprites
+          //Same as base, except box sprites
           "Box$": {
             "Female$": {
               "Shiny": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/pikachu-starter.png", "https://twitter.com/Dada78641"],
@@ -739,7 +739,9 @@
               "Shiny": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/pikachu-starter.png", "Game Freak"],
               "": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/pikachu-starter.png", "Game Freak"]
             }
-          }
+          },
+          "Front$": { "$override": "Pikachu.Forms.''.Sprites.'Front$'" },
+          "Back$": { "$override": "Pikachu.Forms.''.Sprites.'Back$'" }
         }
       }
     }
