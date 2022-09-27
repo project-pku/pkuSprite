@@ -266,12 +266,7 @@
   "Appletun": {
     "Forms": {
       "Gigantamax": {
-        "Sprites": {
-          "Box$": {
-            "Shiny": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/flapple-gmax.png", "https://twitter.com/Dada78641"],
-            "": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/flapple-gmax.png", "Game Freak"]
-          }
-        }
+        "Sprites": { "$override": "Flapple.Forms.Gigantamax.Sprites" } //Appletun & Flapple Gigantamaxes look identical
       }
     }
   },

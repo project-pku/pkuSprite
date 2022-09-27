@@ -20,7 +20,7 @@
             "": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/raticate-alola.png", "Game Freak"]
           }
         }
-      } //Alolan|Totem is castable to Alolan, so same sprites are used.
+      }
     }
   },
   "Raichu": {
@@ -212,7 +212,7 @@
             "": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/marowak-alola.png", "Game Freak"]
           }
         }
-      } //Alolan|Totem is castable to Alolan, so same sprites are used.
+      }
     }
   }
 }

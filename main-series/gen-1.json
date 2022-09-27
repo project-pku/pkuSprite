@@ -729,6 +729,7 @@
       },
       "Partner": {
         "Sprites": {
+          "$override": "Pikachu.Forms.''.Sprites", //Same as base, except custom box sprites
           "Box$": {
             "Female$": {
               "Shiny": ["https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/pikachu-starter.png", "https://twitter.com/Dada78641"],
