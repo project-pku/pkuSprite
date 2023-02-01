@@ -2,13 +2,13 @@
   <img src="logo.svg" height="100px"/>
 </p>
 
-This repository is specifically for housing and providing structured access to Pokémon and Pokémon related sprites and graphics in the form of URLs. These URLs grouped into *dexes*, which are just json files with a predefined structure. These dexes, when compiled, are primarily for use in [pkuManager](https://github.com/project-pku/pkuManager), but any application is free to use them.
+This repository is specifically for housing and providing structured access to Pokémon related sprites and graphics in the form of URLs. These URLs grouped into *dexes*, which are just json files with a predefined structure. These dexes, when compiled, are primarily for use in [pkuManager](https://github.com/project-pku/pkuManager), but any application is free to use them.
 
 ## Auto-Building
 Like it's sister repo [pkuData](https://github.com/project-pku/pkuData), whenever a change is pushed to this repo that affects any of the dexes specified in the [`config.json`](config.json) file (e.g. a sprite is added, updated, removed), all the dexes are rebuilt and the new build is committed to the [build branch](https://github.com/project-pku/pkuSprite/tree/build).
 
 ## Structure of SpeciesDex
-While the structure of other dexes is self-explanatory, SpeciesDexes are a little more complex. A **SpeciesDex** is a type of dex for storing info about Pokémon species'. In the case of this repo, that info is just URLs to sprites of this species. Each top level entry in a SpeciesDex is a species (e.g. Pikachu) which contains an entry for `"Forms"` (e.g. Cosplay), and each form potentially contains an entry for `"Appearances"` (e.g. Libre outfit). Note that all species have a default form, whether named or not. For example, Giratina's default form is `"Altered"`, while Pikachu's is simply the empty string `""`.
+While the structure of other dexes is self-explanatory, SpeciesDexes are a little more complex. A **SpeciesDex** is a type of dex for storing info about Pokémon species. In the case of this repo, that info is just URLs to sprites of this species. Each top level entry in a SpeciesDex is a species (e.g. Pikachu) which contains an entry for `"Forms"` (e.g. Cosplay), and each form potentially contains an entry for `"Appearances"` (e.g. Libre outfit). Note that all species have a default form, whether named or not. For example, Giratina's default form is `"Altered"`, while Pikachu's is simply the empty string `""`.
 
 In this repo, each form entry and appearance entry may have a `"Sprites"` tag. Every entry in this tag corresponds to a different **sprite type** (e.g. box, front, back, etc.). The value for each of these sprite types should be an array of length 2, with the first entry being a direct URL to the sprite, and the second being a URL to one of the Author's accounts on some social platform (e.g. deviantart, github, twitter, etc.). Note that for official sprites, we simply list `"Game Freak"`.
 
@@ -48,7 +48,7 @@ After reading about the structure described above, you may be wondering "How do 
 }
 ```
 
-Notice how a `"$"` has been appended to it? This denoted that a value is *modified*. This just means that when searching for a particular value in (in this case `"Front"`), the SFAM should be used to decide which value to take until an unmodified value (i.e. one without a `"$"` is found). Note that this means we can nest modifiers:
+Notice how a `"$"` has been appended to it. This denotes that a value is *modified*. This just means that when searching for a particular value (in this case `"Front"`), the SFAM should be used to decide which value to take until an unmodified value (i.e. one without a `"$"` is found). Note that this means we can nest modifiers:
 
 ```jsonc
 "Front$": {
@@ -67,13 +67,14 @@ Notice how a `"$"` has been appended to it? This denoted that a value is *modifi
 }
 ```
 
-Also note that the order the options appear and the order of the nesting determines what value is returned. In the example above, first `"Egg"` is checked, if it fails `"Shadow"` is checked, and finally `""` is chosen (the default value `""` is always chosen). Then in each of the cases, `"Shiny"` is checked. If no match can be found (i.e. no default value), then the search will come up negative.
+Also note that the order the options appear and the order of the nesting determines what value is returned. In the example above, first `"Egg"` is checked, if it fails `"Shadow"` is checked, and finally `""` is chosen (the default value `""` is always chosen). Then in each of the cases, `"Shiny"` is checked. Note that if the search process turns up no match (which can only occur if there is no default value), then the search will come up negative.
 
-Below is a list of modifiers
+Below is a list of modifiers:
 
-- `"Female"` for female sprites, falling back on the default `""` for male sprites.
+- `"Shiny"` for shiny sprites.
 - `"Egg"` for egg sprites.
 - `"Shadow"` for shadow sprites.
+- `"Female"` for female sprites (note that this only applies to species with gender differences, with the default `""` being used for male sprites).
 
 ## What Constitutes Authorship?
 When a sprite is made from scratch by a single person or team then there's usually no confusion. But what if a sprite is a derivative work? Should the both the original author and the new one be credited? What if it is a derivative work of a derivative work, and so on?
